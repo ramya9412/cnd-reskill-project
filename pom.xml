@@ -15,6 +15,10 @@
 	<description>Product micro-service Springboot</description>
 	<properties>
 		<java.version>11</java.version>
+		<sonar.projectKey>ramya9412_cnd-reskill-project
+</sonar.projectKey>
+<sonar.organization>ramya9412</sonar.organization>
+<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 	</properties>
 	
 	<dependencyManagement>
